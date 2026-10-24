@@ -1,21 +1,21 @@
-# 🐍 Curso de Python para Inteligencia Artificial
+# Curso de Python para Inteligencia Artificial
 
 Repositorio personal de seguimiento y prácticas del curso de Python. Diseñado como base sólida de programación para afrontar con garantías el **Grado en Inteligencia Artificial en la UNED**.
 
 ---
 
-## 🛠️ Entorno de Tecnologías
+## Entorno de Tecnologías
 * **Lenguaje:** Python 3.x
 * **Editor:** Visual Studio Code
 * **Control de Versiones:** Git & GitHub
 
 ---
 
-## 🗺️ Índice del Curso (Estructura de Contenidos)
+## Índice del Curso (Estructura de Contenidos)
 
 Haz clic en cualquier marca de tiempo para ir directamente al momento exacto del vídeo en YouTube:
 
-### 📍 Bloque 1: Fundamentos y Sintaxis Básica
+### Bloque 1: Fundamentos y Sintaxis Básica
 - [X] [`00:00:00`](http://www.youtube.com/watch?v=TkN2i-_4N4g&t=0s) — Introducción
 - [X] [`00:00:32`](http://www.youtube.com/watch?v=TkN2i-_4N4g&t=32s) — ¿Qué es Python y sus características?
 - [X] [`00:05:31`](http://www.youtube.com/watch?v=TkN2i-_4N4g&t=331s) — Creador de Python
@@ -26,7 +26,7 @@ Haz clic en cualquier marca de tiempo para ir directamente al momento exacto del
 - [ ] [`00:50:44`](http://www.youtube.com/watch?v=TkN2i-_4N4g&t=3044s) — Tipo de variables
 - [ ] [`01:07:19`](http://www.youtube.com/watch?v=TkN2i-_4N4g&t=4039s) — Función `input`
 
-### 🔄 Bloque 2: Control de Flujo y Estructuras de Datos
+### Bloque 2: Control de Flujo y Estructuras de Datos
 - [ ] [`01:14:24`](http://www.youtube.com/watch?v=TkN2i-_4N4g&t=4464s) — Sentencias condicionales
 - [ ] [`01:26:09`](http://www.youtube.com/watch?v=TkN2i-_4N4g&t=5169s) — Operadores lógicos
 - [ ] [`01:52:40`](http://www.youtube.com/watch?v=TkN2i-_4N4g&t=6760s) — Listas
@@ -35,7 +35,7 @@ Haz clic en cualquier marca de tiempo para ir directamente al momento exacto del
 - [ ] [`02:57:58`](http://www.youtube.com/watch?v=TkN2i-_4N4g&t=10678s) — Bucles `for`
 - [ ] [`03:11:36`](http://www.youtube.com/watch?v=TkN2i-_4N4g&t=11496s) — Comprensión de listas (*List comprehensions*)
 
-### ⚙️ Bloque 3: Modularidad, Lógica y Estructuras Avanzadas
+### Bloque 3: Modularidad, Lógica y Estructuras Avanzadas
 - [ ] [`03:27:04`](http://www.youtube.com/watch?v=TkN2i-_4N4g&t=12424s) — Funciones
 - [ ] [`03:38:05`](http://www.youtube.com/watch?v=TkN2i-_4N4g&t=13085s) — Argumentos por posición y clave
 - [ ] [`03:46:51`](http://www.youtube.com/watch?v=TkN2i-_4N4g&t=13611s) — Lógica y resolución de problemas
@@ -43,7 +43,7 @@ Haz clic en cualquier marca de tiempo para ir directamente al momento exacto del
 - [ ] [`04:45:25`](http://www.youtube.com/watch?v=TkN2i-_4N4g&t=17125s) — Expresiones Regulares (RegEx)
 - [ ] [`06:06:50`](http://www.youtube.com/watch?v=TkN2i-_4N4g&t=22010s) — Manejo de Fechas
 
-### 🌐 Bloque 4: Ecosistema Avanzado, APIs y POO (Clave para IA)
+### Bloque 4: Ecosistema Avanzado, APIs y POO (Clave para IA)
 - [ ] [`06:28:07`](http://www.youtube.com/watch?v=TkN2i-_4N4g&t=23287s) — Peticiones a APIs con OpenAI y DeepSeek
 - [ ] [`06:34:23`](http://www.youtube.com/watch?v=TkN2i-_4N4g&t=23663s) — Métodos HTTP
 - [ ] [`06:57:13`](http://www.youtube.com/watch?v=TkN2i-_4N4g&t=25033s) — Clases y Programación Orientada a Objetos (Classes)
@@ -53,7 +53,7 @@ Haz clic en cualquier marca de tiempo para ir directamente al momento exacto del
 
 ---
 
-## 📌 Comandos Útiles de Git
+## Comandos Útiles de Git
 
 Guía rápida para el flujo diario de trabajo en la terminal:
 
