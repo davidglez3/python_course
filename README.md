@@ -23,8 +23,8 @@ Haz clic en cualquier marca de tiempo para ir directamente al momento exacto del
 - [X] [`00:18:08`](http://www.youtube.com/watch?v=TkN2i-_4N4g&t=1088s) — Intérprete de Python
 - [X] [`00:21:22`](http://www.youtube.com/watch?v=TkN2i-_4N4g&t=1282s) — Hola mundo
 - [X] [`00:31:07`](http://www.youtube.com/watch?v=TkN2i-_4N4g&t=1867s) — Tipos de datos
-- [ ] [`00:50:44`](http://www.youtube.com/watch?v=TkN2i-_4N4g&t=3044s) — Tipo de variables
-- [ ] [`01:07:19`](http://www.youtube.com/watch?v=TkN2i-_4N4g&t=4039s) — Función `input`
+- [X] [`00:50:44`](http://www.youtube.com/watch?v=TkN2i-_4N4g&t=3044s) — Tipo de variables
+- [X] [`01:07:19`](http://www.youtube.com/watch?v=TkN2i-_4N4g&t=4039s) — Función `input`
 
 ### Bloque 2: Control de Flujo y Estructuras de Datos
 - [ ] [`01:14:24`](http://www.youtube.com/watch?v=TkN2i-_4N4g&t=4464s) — Sentencias condicionales

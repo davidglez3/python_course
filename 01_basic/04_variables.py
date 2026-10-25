@@ -56,6 +56,5 @@ minombredevariable = "Ko"
 is_user_logged_in: bool = True #Aqui le añadimos la anotación que es un booleano
 print(is_user_logged_in)
 
-is_user_logged_in = 32 #Aqui vemos que podemos cambiar sin problema a int, aunque tenga la anotación de bool
-print(is_user_logged_in)
+# is_user_logged_in = 32 #Aqui vemos que podemos cambiar sin problema a int, aunque tenga la anotación de bool. Da error por que se configuró en el editor, pero funciona igualmenteprint(is_user_logged_in)
 
