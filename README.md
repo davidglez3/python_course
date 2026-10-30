@@ -27,8 +27,8 @@ Haz clic en cualquier marca de tiempo para ir directamente al momento exacto del
 - [X] [`01:07:19`](http://www.youtube.com/watch?v=TkN2i-_4N4g&t=4039s) — Función `input`
 
 ### Bloque 2: Control de Flujo y Estructuras de Datos
-- [ ] [`01:14:24`](http://www.youtube.com/watch?v=TkN2i-_4N4g&t=4464s) — Sentencias condicionales
-- [ ] [`01:26:09`](http://www.youtube.com/watch?v=TkN2i-_4N4g&t=5169s) — Operadores lógicos
+- [X] [`01:14:24`](http://www.youtube.com/watch?v=TkN2i-_4N4g&t=4464s) — Sentencias condicionales
+- [X] [`01:26:09`](http://www.youtube.com/watch?v=TkN2i-_4N4g&t=5169s) — Operadores lógicos
 - [ ] [`01:52:40`](http://www.youtube.com/watch?v=TkN2i-_4N4g&t=6760s) — Listas
 - [ ] [`02:09:01`](http://www.youtube.com/watch?v=TkN2i-_4N4g&t=7741s) — Modificar y añadir elementos a listas
 - [ ] [`02:36:02`](http://www.youtube.com/watch?v=TkN2i-_4N4g&t=9362s) — Bucle `while` y `break`
